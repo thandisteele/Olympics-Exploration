@@ -1,0 +1,81 @@
+Sports,Gender,Year
+tennis,F,1900
+archery,F,1904
+skating,F,1908
+aquatics,F,1912
+fencing,F,1924
+athletics,F,1928
+gymnastics,F,1928
+skiing,F,1936
+canoe,F,1948
+equestrian,F,1952
+volleyball,F,1964
+luge,F,1964
+rowing,F,1976
+basketball,F,1976
+handball,F,1976
+hockey,F,1980
+shooting,F,1984
+cycling,F,1984
+table tennis,F,1988
+sailing,F,1988
+badminton,F,1992
+judo,F,1992
+biathlon,F,1992
+soccer,F,1996
+softball/baseball,F,1996
+curling,F,1998
+ice hockey,F,1998
+weightlifting,F,2000
+modern pentathlon,F,2000
+taekwondo,F,2000
+triathlon,F,2000
+bobsleigh,F,2002
+wrestling,F,2004
+boxing,F,2012
+golf,F,2016
+rugby,F,2016
+karate,F,2016
+skateboard,F,2020
+sports climbing,F,2020
+surfing,F,2020
+tennis,M,1896
+archery,M,1900
+skating,M,1908
+aquatics,M,1896
+fencing,M,1896
+athletics,M,1896
+gymnastics,M,1896
+skiing,M,1924
+canoe,M,1936
+equestrian,M,1900
+volleyball,M,1964
+luge,M,1964
+rowing,M,1900
+basketball,M,1936
+handball,M,1972
+hockey,M,1908
+shooting,M,1896
+cycling,M,1896
+table tennis,M,1988
+sailing,M,1900
+badminton,M,1992
+judo,M,1964
+biathlon,M,1924
+soccer,M,1908
+softball/baseball,M,1904
+curling,M,1924
+ice hockey,M,1924
+weightlifting,M,1896
+modern pentathlon,M,1912
+taekwondo,M,1988
+triathlon,M,2000
+bobsleigh,M,1924
+wrestling,M,1986
+boxing,M,1904
+golf,M,1900
+rugby,M,1900
+karate,M,2016
+skateboard,M,2020
+sports climbing,M,2020
+surfing,M,2020
